@@ -1,0 +1,2 @@
+
+echo 'gem "jekyll-theme-terminal"' >> Gemfile
